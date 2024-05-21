@@ -1,4 +1,5 @@
 - Hi, I’m @lechuzacafe
+- I'm interested in working with servers and selfhosting.
 - I’m currently learning web development.
 
 <!---
