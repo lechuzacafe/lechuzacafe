@@ -16,7 +16,7 @@
              art, javascript
   
   hobbies  • rhythm games, selfhosting,
-             ttrpgs, drawing
+             ttrpgs, drawing, foss
 
   about    • i am a computer science student
              with a focus on webdev.
