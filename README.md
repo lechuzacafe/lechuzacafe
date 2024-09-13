@@ -2,7 +2,7 @@
 
 
   ```sh
-  lechuzacafe@github ~> whoami
+  lechuzacafe@github ~> screenfetch
   ```
 
   <img align="left" src="https://raw.githubusercontent.com/lechuzacafe/lechuzacafe/main/sherlockhound.gif" width="308" />
@@ -12,14 +12,17 @@
   ------------------------------
   os       • Artix Linux x86_64
   shell    • fish
-  de       • KDE Plasma
+  de       • kde
 
-  learning • web development, docker, javascript
-             bash, art
+  learning • web development, docker,
+             art, javascript
   
-  hobbies  • tba
+  hobbies  • rhythm games, selfhosting,
+             ttrpgs, drawing
 
-  who am I? • tba
+
+  who • i'm a computer science student with a focus on the webdev field.
+        my website is where i mostly have my stuff at.
   
   ```
 
