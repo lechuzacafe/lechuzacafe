@@ -1,13 +1,11 @@
 
-
-
   ```sh
-  lechuzacafe@github ~> screenfetch
+  lechuzacafe@github ~> whoami
   ```
 
   <img align="left" src="https://raw.githubusercontent.com/lechuzacafe/lechuzacafe/main/sherlockhound.gif" width="308" />
 
-  ```haskell
+  ```bash
   lechuzacafe@github
   ------------------------------
   os       • Artix Linux x86_64
@@ -20,9 +18,10 @@
   hobbies  • rhythm games, selfhosting,
              ttrpgs, drawing
 
-
-  who • i'm a computer science student with a focus on the webdev field.
-        my website is where i mostly have my stuff at.
+  about    • i am a computer science student
+             with a focus on webdev.
+             my website is where i mostly
+             have my stuff at.
   
   ```
 
