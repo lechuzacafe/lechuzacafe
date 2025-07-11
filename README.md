@@ -8,9 +8,9 @@
   ```bash
   lechuzacafe@github
   ------------------------------
-  os       • Artix Linux x86_64
+  os       • Garuda Linux x86_64
   shell    • fish
-  de       • kde
+  wm       • sway
 
   learning • web development, docker,
              art, javascript
@@ -19,7 +19,7 @@
              ttrpgs, drawing, foss
 
   about    • i am a computer science student
-             with a focus on webdev.
+             with a focus on the cloud.
              my website is where i mostly
              have my stuff at.
   
