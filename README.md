@@ -5,7 +5,7 @@
 
   <img align="left" src="https://raw.githubusercontent.com/lechuzacafe/lechuzacafe/refs/heads/main/007b7ae58a71f767ad1d890305b3311a.jpg" width="308" />
 
-  ```bash
+  ```
   lechuzacafe@github
   ------------------------------
   os       • Garuda Linux x86_64
