@@ -12,10 +12,14 @@
   shell    • fish
   wm       • sway
 
-  about    • Hi! I'm Amanda, a student currently focusing on learning cloud technologies.
-             I've got a passion for open-source software and working with Linux.
-             In my free time, I'm a huge fan of taking pictures of birds.
-             As a matter of fact, I've got a Laravel project in the works related to that!
+  about    • Hi! I'm Amanda, a student currently focusing on learning
+             cloud technologies.
+             I've got a passion for open-source software and working
+             with Linux.
+             In my free time, I'm a huge fan of taking pictures
+             of birds.
+             As a matter of fact, I've got a Laravel project
+             in the works related to that!
   
   ```
 
